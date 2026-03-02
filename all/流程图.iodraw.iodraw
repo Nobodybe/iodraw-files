@@ -32,7 +32,7 @@
             <mxPoint x="480" y="456" as="targetPoint" />
             <Array as="points">
               <mxPoint x="240" y="434" />
-              <mxPoint x="474" y="434" />
+              <mxPoint x="450" y="434" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -91,7 +91,7 @@
           <mxGeometry x="290" y="260" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DmKYP9Y_DoYQwhzk6RYv-65" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="384" y="390" width="173" height="51" as="geometry" />
+          <mxGeometry x="360" y="387" width="173" height="51" as="geometry" />
         </mxCell>
         <mxCell id="DmKYP9Y_DoYQwhzk6RYv-42" value="" style="group" vertex="1" connectable="0" parent="DmKYP9Y_DoYQwhzk6RYv-65">
           <mxGeometry width="150" height="30" as="geometry" />
