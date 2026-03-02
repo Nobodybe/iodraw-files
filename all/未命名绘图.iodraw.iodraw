@@ -1,0 +1,67 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="24.7.17">
+  <diagram id="6X45xo84INRH-ND-ozBI" name="第 1 页">
+    <mxGraphModel dx="946" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zKAWp3JSCZWEIOlLDo7B-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFFFFF;strokeWidth=2;" parent="1" source="zKAWp3JSCZWEIOlLDo7B-2" target="zKAWp3JSCZWEIOlLDo7B-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zKAWp3JSCZWEIOlLDo7B-2" value="代码段实际运行节拍，各级指令延迟" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;fillColor=#000000;fontColor=#FFFFFF;strokeColor=#E7E9EC;opacity=50;" parent="1" vertex="1">
+          <mxGeometry x="500" y="190" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zKAWp3JSCZWEIOlLDo7B-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#FFFFFF;" parent="1" source="zKAWp3JSCZWEIOlLDo7B-4" target="zKAWp3JSCZWEIOlLDo7B-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zKAWp3JSCZWEIOlLDo7B-4" value="访存点元素步长" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;fillColor=#000000;fontColor=#FFFFFF;strokeColor=#C5C9CE;strokeWidth=1;opacity=50;" parent="1" vertex="1">
+          <mxGeometry x="500" y="290" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zKAWp3JSCZWEIOlLDo7B-5" value="预取频率" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;fillColor=#000000;fontColor=#FFFFFF;strokeColor=#E7E9EC;opacity=50;" parent="1" vertex="1">
+          <mxGeometry x="500" y="390" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zKAWp3JSCZWEIOlLDo7B-6" value="额外偏移量" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;fillColor=#000000;fontColor=#FFFFFF;strokeColor=#E7E9EC;opacity=50;" parent="1" vertex="1">
+          <mxGeometry x="500" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zKAWp3JSCZWEIOlLDo7B-7" value="最终偏移量" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;fillColor=#000000;fontColor=#FFFFFF;strokeColor=#E7E9EC;opacity=50;" parent="1" vertex="1">
+          <mxGeometry x="500" y="580" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zKAWp3JSCZWEIOlLDo7B-8" value="计算迭代提前距离" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;fillColor=#000000;fontColor=#FFFFFF;strokeColor=#C5C9CF;" parent="1" vertex="1">
+          <mxGeometry x="570" y="240" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zKAWp3JSCZWEIOlLDo7B-9" value="进行重用分析" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;fillColor=#000000;fontColor=#FFFFFF;strokeColor=#C5C9CF;" parent="1" vertex="1">
+          <mxGeometry x="570" y="340" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zKAWp3JSCZWEIOlLDo7B-10" value="确定循环中各预取指令的最终偏移" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;fillColor=#000000;fontColor=#FFFFFF;strokeColor=#C5C9CF;" parent="1" vertex="1">
+          <mxGeometry x="570" y="430" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zKAWp3JSCZWEIOlLDo7B-11" value="预取偏移自动调优" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;fillColor=#000000;fontColor=#FFFFFF;strokeColor=#C5C9CF;" parent="1" vertex="1">
+          <mxGeometry x="570" y="535" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zKAWp3JSCZWEIOlLDo7B-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#FFFFFF;" parent="1" source="zKAWp3JSCZWEIOlLDo7B-5" target="zKAWp3JSCZWEIOlLDo7B-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="330" as="sourcePoint" />
+            <mxPoint x="570" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zKAWp3JSCZWEIOlLDo7B-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#FFFFFF;" parent="1" source="zKAWp3JSCZWEIOlLDo7B-6" target="zKAWp3JSCZWEIOlLDo7B-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="340" as="sourcePoint" />
+            <mxPoint x="580" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zKAWp3JSCZWEIOlLDo7B-14" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;b style=&quot;font-size: 13px; background-color: initial;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;1&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=center;" parent="1" vertex="1">
+          <mxGeometry x="530" y="240" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zKAWp3JSCZWEIOlLDo7B-15" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;b style=&quot;font-size: 13px; background-color: initial;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;2&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=center;" parent="1" vertex="1">
+          <mxGeometry x="530" y="345" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zKAWp3JSCZWEIOlLDo7B-16" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;b style=&quot;font-size: 13px; background-color: initial;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;3&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=center;" parent="1" vertex="1">
+          <mxGeometry x="530" y="440" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zKAWp3JSCZWEIOlLDo7B-17" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;4&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=center;" parent="1" vertex="1">
+          <mxGeometry x="530" y="540" width="20" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
