@@ -7,7 +7,7 @@
         <mxCell id="DmKYP9Y_DoYQwhzk6RYv-61" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;fillColor=none;strokeColor=#666666;dashed=1;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="255" width="240" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="DmKYP9Y_DoYQwhzk6RYv-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFFFFF;strokeWidth=1;startSize=6;sourcePerimeterSpacing=0;endArrow=classicThin;endFill=1;" edge="1" parent="1" source="DmKYP9Y_DoYQwhzk6RYv-1" target="DmKYP9Y_DoYQwhzk6RYv-2">
+        <mxCell id="DmKYP9Y_DoYQwhzk6RYv-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFFFFF;strokeWidth=1;startSize=6;sourcePerimeterSpacing=0;endArrow=classicThin;endFill=1;" edge="1" parent="1" source="DmKYP9Y_DoYQwhzk6RYv-1" target="DmKYP9Y_DoYQwhzk6RYv-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DmKYP9Y_DoYQwhzk6RYv-6" value="代码段实际运行节拍，各级指令延迟" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;fillColor=none;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
@@ -122,7 +122,7 @@
           <mxGeometry x="10" y="7.5" width="15" height="15" as="geometry" />
         </mxCell>
         <mxCell id="DmKYP9Y_DoYQwhzk6RYv-46" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="150" y="190" width="150" height="30" as="geometry" />
+          <mxGeometry x="339" y="180" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DmKYP9Y_DoYQwhzk6RYv-1" value="获取硬件参数" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;fillColor=#000000;fontColor=#FFFFFF;strokeColor=#E7E9EC;opacity=50;" vertex="1" parent="DmKYP9Y_DoYQwhzk6RYv-46">
           <mxGeometry x="30" width="120" height="30" as="geometry" />
