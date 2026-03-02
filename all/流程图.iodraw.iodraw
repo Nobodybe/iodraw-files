@@ -17,7 +17,7 @@
           <mxGeometry x="230" y="350" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DmKYP9Y_DoYQwhzk6RYv-9" value="额外偏移量" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;fillColor=none;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="230" y="420" width="120" height="30" as="geometry" />
+          <mxGeometry x="240" y="420" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DmKYP9Y_DoYQwhzk6RYv-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#FFFFFF;endArrow=classicThin;endFill=1;" edge="1" parent="1" source="DmKYP9Y_DoYQwhzk6RYv-4" target="DmKYP9Y_DoYQwhzk6RYv-5">
           <mxGeometry relative="1" as="geometry">
