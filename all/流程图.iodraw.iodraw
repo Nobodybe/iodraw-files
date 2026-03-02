@@ -85,7 +85,7 @@
         <mxCell id="DmKYP9Y_DoYQwhzk6RYv-27" value="预取偏移自动调优" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;fillColor=#000000;fontColor=#FFFFFF;strokeColor=#E7E9EC;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="490" y="550" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DmKYP9Y_DoYQwhzk6RYv-28" value="代码段实际运行节拍，各级指令延迟" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;fillColor=#000000;fontColor=#FFFFFF;strokeColor=#C5C9CF;" vertex="1" parent="1">
+        <mxCell id="DmKYP9Y_DoYQwhzk6RYv-28" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;fillColor=#000000;fontColor=#FFFFFF;strokeColor=#C5C9CF;" vertex="1" parent="1">
           <mxGeometry x="560" y="230" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DmKYP9Y_DoYQwhzk6RYv-29" value="访存点元素步长" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;fillColor=#000000;fontColor=#FFFFFF;strokeColor=#C5C9CF;" vertex="1" parent="1">
