@@ -10,9 +10,7 @@
         <mxCell id="DmKYP9Y_DoYQwhzk6RYv-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFFFFF;strokeWidth=1;startSize=6;sourcePerimeterSpacing=0;endArrow=classicThin;endFill=1;" edge="1" parent="1" source="DmKYP9Y_DoYQwhzk6RYv-1" target="DmKYP9Y_DoYQwhzk6RYv-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="474" y="228" />
-              <mxPoint x="474" y="233" />
-              <mxPoint x="240" y="233" />
+              <mxPoint x="240" y="228" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -66,7 +64,7 @@
           <mxGeometry x="10" y="5" width="15" height="15" as="geometry" />
         </mxCell>
         <mxCell id="DmKYP9Y_DoYQwhzk6RYv-46" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="151" y="198" width="150" height="30" as="geometry" />
+          <mxGeometry x="150" y="197" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DmKYP9Y_DoYQwhzk6RYv-1" value="获取硬件参数" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;fillColor=#000000;fontColor=#FFFFFF;strokeColor=#E7E9EC;opacity=50;" vertex="1" parent="DmKYP9Y_DoYQwhzk6RYv-46">
           <mxGeometry x="30" width="120" height="30" as="geometry" />
