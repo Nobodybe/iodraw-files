@@ -11,10 +11,10 @@
           <mxGeometry x="250" y="225" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DmKYP9Y_DoYQwhzk6RYv-7" value="访存点元素步长" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;fillColor=none;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="240" y="290" width="120" height="30" as="geometry" />
+          <mxGeometry x="250" y="290" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DmKYP9Y_DoYQwhzk6RYv-8" value="预取频率" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;fillColor=none;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="220" y="350" width="120" height="30" as="geometry" />
+          <mxGeometry x="230" y="350" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DmKYP9Y_DoYQwhzk6RYv-9" value="额外偏移量" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;fillColor=none;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="230" y="420" width="120" height="30" as="geometry" />
