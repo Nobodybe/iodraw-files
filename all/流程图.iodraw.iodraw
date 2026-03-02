@@ -11,7 +11,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DmKYP9Y_DoYQwhzk6RYv-6" value="代码段实际运行节拍，各级指令延迟" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;fillColor=none;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="240" y="225" width="120" height="30" as="geometry" />
+          <mxGeometry x="250" y="225" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DmKYP9Y_DoYQwhzk6RYv-7" value="访存点元素步长" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;fillColor=none;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="240" y="290" width="120" height="30" as="geometry" />
@@ -128,7 +128,7 @@
           <mxGeometry y="5" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="DmKYP9Y_DoYQwhzk6RYv-46" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="150" y="180" width="150" height="30" as="geometry" />
+          <mxGeometry x="150" y="190" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DmKYP9Y_DoYQwhzk6RYv-1" value="获取硬件参数" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;fillColor=#000000;fontColor=#FFFFFF;strokeColor=#E7E9EC;opacity=50;" vertex="1" parent="DmKYP9Y_DoYQwhzk6RYv-46">
           <mxGeometry x="30" width="120" height="30" as="geometry" />
