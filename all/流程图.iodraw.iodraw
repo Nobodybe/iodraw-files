@@ -13,8 +13,8 @@
         <mxCell id="DmKYP9Y_DoYQwhzk6RYv-3" value="进行重用分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="380" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DmKYP9Y_DoYQwhzk6RYv-4" value="获取硬件参数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="490" width="120" height="30" as="geometry" />
+        <mxCell id="DmKYP9Y_DoYQwhzk6RYv-4" value="确定循环中各预取指令的最终偏移" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="470" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
