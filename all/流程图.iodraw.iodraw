@@ -32,9 +32,8 @@
             <mxPoint x="260" y="240" as="sourcePoint" />
             <mxPoint x="480" y="456" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="240" y="486" />
-              <mxPoint x="494" y="486" />
-              <mxPoint x="494" y="420" />
+              <mxPoint x="240" y="446" />
+              <mxPoint x="474" y="446" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -102,7 +101,7 @@
           <mxGeometry x="300" y="385" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DmKYP9Y_DoYQwhzk6RYv-60" value="&lt;font face=&quot;Times New Roman&quot; color=&quot;#ffffff&quot;&gt;&lt;b&gt;Section 2.5&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="554" y="442" width="80" height="30" as="geometry" />
+          <mxGeometry x="477" y="411" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
