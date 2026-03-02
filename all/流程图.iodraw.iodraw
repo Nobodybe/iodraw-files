@@ -20,7 +20,7 @@
         <mxCell id="DmKYP9Y_DoYQwhzk6RYv-7" value="&lt;font color=&quot;#000000&quot;&gt;访存点元素步长&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;fillColor=none;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="240" y="290" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DmKYP9Y_DoYQwhzk6RYv-8" value="预取频率" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;fillColor=none;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="DmKYP9Y_DoYQwhzk6RYv-8" value="&lt;font color=&quot;#000000&quot;&gt;预取频率&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;fillColor=none;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="230" y="350" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DmKYP9Y_DoYQwhzk6RYv-9" value="额外偏移量" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;fillColor=none;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
@@ -72,8 +72,8 @@
             <mxPoint x="250" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DmKYP9Y_DoYQwhzk6RYv-58" value="&lt;font face=&quot;Times New Roman&quot; color=&quot;#ffffff&quot;&gt;&lt;b&gt;Section 2.3&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="290" y="320" width="80" height="30" as="geometry" />
+        <mxCell id="DmKYP9Y_DoYQwhzk6RYv-58" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;&quot;&gt;Section 2.3&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="294" y="322" width="73" height="26" as="geometry" />
         </mxCell>
         <mxCell id="DmKYP9Y_DoYQwhzk6RYv-2" value="&lt;font color=&quot;#000000&quot;&gt;计算迭代提前距离&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;fillColor=#000000;fontColor=#FFFFFF;strokeColor=#C5C9CE;strokeWidth=1;opacity=50;" parent="1" vertex="1">
           <mxGeometry x="180" y="260" width="120" height="30" as="geometry" />
