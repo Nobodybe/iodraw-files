@@ -28,8 +28,8 @@
         <mxCell id="DmKYP9Y_DoYQwhzk6RYv-8" value="预取频率" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="420" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DmKYP9Y_DoYQwhzk6RYv-9" value="获取硬件参数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="260" width="120" height="30" as="geometry" />
+        <mxCell id="DmKYP9Y_DoYQwhzk6RYv-9" value="额外偏移量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="510" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
