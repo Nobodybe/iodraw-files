@@ -17,7 +17,7 @@
         <mxCell id="DmKYP9Y_DoYQwhzk6RYv-6" value="&lt;font color=&quot;#000000&quot;&gt;代码段实际运行节拍，各级指令延迟&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;fillColor=none;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="235" y="230" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DmKYP9Y_DoYQwhzk6RYv-7" value="访存点元素步长" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;fillColor=none;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="DmKYP9Y_DoYQwhzk6RYv-7" value="&lt;font color=&quot;#000000&quot;&gt;访存点元素步长&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;fillColor=none;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="240" y="290" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DmKYP9Y_DoYQwhzk6RYv-8" value="预取频率" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;fillColor=none;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
