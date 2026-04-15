@@ -78,8 +78,8 @@
         <mxCell id="DmKYP9Y_DoYQwhzk6RYv-59" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;(&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;Section 2.4&lt;/b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="286" y="387" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DmKYP9Y_DoYQwhzk6RYv-49" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;(&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;Section 2.2&lt;/b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="286" y="260" width="90" height="30" as="geometry" />
+        <mxCell id="DmKYP9Y_DoYQwhzk6RYv-49" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;偏移：&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="325" y="267.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DmKYP9Y_DoYQwhzk6RYv-65" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="360" y="387" width="173" height="51" as="geometry" />
