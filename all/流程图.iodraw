@@ -53,9 +53,6 @@
         <mxCell id="DmKYP9Y_DoYQwhzk6RYv-2" value="&lt;font color=&quot;#000000&quot;&gt;对B矩阵进行一级预取&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;fillColor=#FFFFFF;fontColor=#FFFFFF;strokeColor=#C5C9CE;strokeWidth=1;opacity=50;" parent="1" vertex="1">
           <mxGeometry x="180" y="260" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DmKYP9Y_DoYQwhzk6RYv-59" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;(&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;Section 2.4&lt;/b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="286" y="387" width="90" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="YSsFw40-Y8z9B783U-7z-1" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 12px;&quot; face=&quot;Times New Roman&quot;&gt;2&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=center;fillColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="160" y="267.5" width="10.5" height="10.5" as="geometry" />
         </mxCell>
@@ -64,6 +61,9 @@
         </mxCell>
         <mxCell id="nNgc7JS1nOnrnAERngs2-4" value="&lt;font color=&quot;#000000&quot;&gt;偏移：BASE_L3*16*SIZE+128*PREFETCHSTEP_L3_A&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;fillColor=none;fontColor=#FFFFFF;strokeColor=none;align=left;" vertex="1" parent="1">
           <mxGeometry x="320" y="320" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nNgc7JS1nOnrnAERngs2-5" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;偏移：&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 9pt; text-wrap-mode: nowrap; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; lang=&quot;EN-US&quot;&gt;BASE_L1*4*SIZE+128*PREFETCHSTEP_L1_B&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;fillColor=none;fontColor=#FFFFFF;strokeColor=none;align=left;" vertex="1" parent="1">
+          <mxGeometry x="320" y="385" width="340" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
