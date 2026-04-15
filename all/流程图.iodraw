@@ -23,9 +23,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="DmKYP9Y_DoYQwhzk6RYv-7" value="&lt;font color=&quot;#000000&quot;&gt;访存点元素步长&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;fillColor=none;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="240" y="290" width="120" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="DmKYP9Y_DoYQwhzk6RYv-8" value="&lt;font color=&quot;#000000&quot;&gt;预取频率&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;fillColor=none;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="230" y="350" width="110" height="30" as="geometry" />
         </mxCell>
@@ -97,7 +94,7 @@
           <mxGeometry x="160" y="267.5" width="10.5" height="10.5" as="geometry" />
         </mxCell>
         <mxCell id="nNgc7JS1nOnrnAERngs2-2" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;偏移：&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 9pt; text-wrap-mode: nowrap; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; lang=&quot;EN-US&quot;&gt;BASE_L1*4*SIZE+128*PREFETCHSTEP_L1_B&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;fillColor=none;fontColor=#FFFFFF;strokeColor=none;align=left;" vertex="1" parent="1">
-          <mxGeometry x="312" y="257.75" width="340" height="30" as="geometry" />
+          <mxGeometry x="313" y="257.75" width="340" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
