@@ -68,6 +68,9 @@
         <mxCell id="nNgc7JS1nOnrnAERngs2-7" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="354" y="130" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="nNgc7JS1nOnrnAERngs2-8" value="将这张图修改的学术一点" style="text;whiteSpace=wrap;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="590" y="130" width="170" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
