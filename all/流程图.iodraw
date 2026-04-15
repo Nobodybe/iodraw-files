@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="DmKYP9Y_DoYQwhzk6RYv-6" value="&lt;font color=&quot;#000000&quot;&gt;代码段实际运行节拍，各级指令延迟&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;fillColor=none;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="250" y="225" width="210" height="30" as="geometry" />
+        <mxCell id="DmKYP9Y_DoYQwhzk6RYv-6" value="&lt;font color=&quot;#000000&quot;&gt;BASE_L3*4*SIZE+1280+128*PREFETCHSTEP_L3_B&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;fillColor=none;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="350" y="197" width="300" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DmKYP9Y_DoYQwhzk6RYv-46" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="150" y="197" width="150" height="30" as="geometry" />
