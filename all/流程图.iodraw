@@ -23,9 +23,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="DmKYP9Y_DoYQwhzk6RYv-8" value="&lt;font color=&quot;#000000&quot;&gt;预取频率&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;fillColor=none;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="230" y="350" width="110" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="DmKYP9Y_DoYQwhzk6RYv-9" value="&lt;font color=&quot;#000000&quot;&gt;额外偏移量&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;fillColor=none;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="286" y="423" width="120" height="30" as="geometry" />
         </mxCell>
